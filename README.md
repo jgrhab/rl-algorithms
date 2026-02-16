@@ -4,8 +4,8 @@ Algorithms:
 - Deep Q-Network (DQN)
 - Deep Deterministic Policy Gradient (DDPG)
 - Twin Delayed DDPG (TD3)
+- Soft Actor-Critic (SAC)
 - Proximal Policy Optimization (PPO)
-
  
 Algorithms implemented without TorchRL (`no_lib` folder):
 - Vanilla Policy Gradient (VPG) (a.k.a. REINFORCE)
