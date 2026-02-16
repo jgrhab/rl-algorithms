@@ -3,6 +3,7 @@ Implementation of deep Reinforcement Learning algorithms on [Gymnasium](https://
 Algorithms:
 - Deep Q-Network (DQN)
 - Deep Deterministic Policy Gradient (DDPG)
+- Twin Delayed DDPG (TD3)
 - Proximal Policy Optimization (PPO)
 
  
